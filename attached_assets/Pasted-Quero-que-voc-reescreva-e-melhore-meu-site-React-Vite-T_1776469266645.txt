@@ -1,0 +1,96 @@
+Quero que você reescreva e melhore meu site React (Vite + Tailwind) com foco total em CONVERSÃO (gerar clientes para serviços de desenvolvimento de sistemas e automação).
+
+Objetivo do site:
+Gerar leads via WhatsApp de pequenos e médios empresários que precisam automatizar processos ou criar sistemas sob medida.
+
+Instruções:
+
+1. HERO (seção principal)
+
+* Substituir o título atual por:
+  "Automatizo processos e crio sistemas sob medida para empresas que querem crescer sem perder tempo."
+
+* Subtítulo:
+  "Elimine tarefas manuais, organize sua operação e aumente sua produtividade com tecnologia feita sob medida para o seu negócio."
+
+* Botões:
+  Primário: "Falar no WhatsApp"
+  Link: https://wa.me/55119SEUNUMERO
+
+Secundário: "Ver como funciona"
+
+2. NOVA SEÇÃO (logo abaixo do hero)
+   Criar uma seção com o título:
+   "Você está passando por isso?"
+
+Lista de problemas:
+
+* Perde tempo com tarefas manuais
+* Usa planilhas que não conversam entre si
+* Tem retrabalho na operação
+* Falta controle do que está acontecendo na empresa
+
+Texto final:
+"Se você respondeu sim para algum desses pontos, eu consigo resolver isso com um sistema sob medida."
+
+3. SERVIÇOS (reescrever textos)
+   Substituir descrições por:
+
+* Sistemas personalizados:
+  "Crio sistemas feitos exatamente para o seu negócio, eliminando processos manuais e organizando sua operação."
+
+* Automação de processos:
+  "Automatizo tarefas repetitivas para você economizar tempo e reduzir erros no dia a dia."
+
+* Integrações:
+  "Conecto suas ferramentas para tudo funcionar junto, sem retrabalho e sem perda de informação."
+
+4. DIFERENCIAIS (simplificar e focar em negócio)
+   Substituir por lista direta:
+
+* Atendimento direto comigo (sem intermediários)
+* Soluções feitas sob medida (não uso modelos prontos)
+* Foco em resultado e ganho real para o cliente
+* Entrega rápida com acompanhamento
+
+5. PROVA (nova seção)
+   Criar seção com título:
+   "Soluções que posso desenvolver para você"
+
+Lista:
+
+* Sistema para restaurante (pedidos + cozinha)
+* Automação de atendimento via WhatsApp
+* Controle financeiro personalizado
+* Dashboard com dados do negócio
+
+6. CTA FINAL
+   Texto:
+   "Pronto para parar de perder tempo e organizar seu negócio?"
+
+Subtexto:
+"Fale comigo agora e vamos entender o que dá para automatizar na sua empresa."
+
+Botão:
+"Falar no WhatsApp agora"
+
+7. BOTÃO FLUTUANTE
+   Adicionar botão fixo no canto inferior direito:
+   Texto: "💬 WhatsApp"
+   Link: https://wa.me/55119SEUNUMERO
+
+8. DESIGN
+
+* Manter estilo minimalista (preto, branco, elegante)
+* Melhorar espaçamento e hierarquia visual
+* Garantir responsividade mobile
+* Animações suaves (sem exagero)
+
+9. IMPORTANTE
+
+* Não usar textos genéricos
+* Focar em dor do cliente e solução
+* Linguagem simples e direta (não técnica)
+* Manter estrutura em React + Tailwind
+
+Faça todas as alterações diretamente no código existente.

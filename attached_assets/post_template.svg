@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#1c1c2e"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.04)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect width="1080" height="1080" fill="url(#glow)"/>
+
+  <!-- Subtle border lines -->
+  <rect x="48" y="48" width="984" height="984" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Top label -->
+  <text x="540" y="148" font-family="Georgia, serif" font-size="18" fill="rgba(255,255,255,0.3)" text-anchor="middle" letter-spacing="8">APRESENTANDO</text>
+
+  <!-- Thin separator line -->
+  <line x1="380" y1="168" x2="700" y2="168" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+
+  <!-- Big R letter as decorative background element -->
+  <text x="540" y="620" font-family="Georgia, serif" font-size="580" fill="rgba(255,255,255,0.025)" text-anchor="middle" font-weight="700">R</text>
+
+  <!-- Brand name -->
+  <text x="540" y="430" font-family="Georgia, serif" font-size="110" fill="rgba(255,255,255,0.95)" text-anchor="middle" font-weight="700" letter-spacing="-2">Robe Systems</text>
+
+  <!-- Thin separator -->
+  <line x1="440" y1="462" x2="640" y2="462" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="540" y="520" font-family="Georgia, serif" font-size="32" fill="rgba(255,255,255,0.45)" text-anchor="middle" letter-spacing="1">Sistemas sob medida.</text>
+  <text x="540" y="562" font-family="Georgia, serif" font-size="32" fill="rgba(255,255,255,0.45)" text-anchor="middle" letter-spacing="1">Automação empresarial.</text>
+
+  <!-- Description -->
+  <text x="540" y="650" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.28)" text-anchor="middle">Desenvolvemos tecnologia que transforma</text>
+  <text x="540" y="682" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.28)" text-anchor="middle">a operação de empresas em resultado real.</text>
+
+  <!-- Bottom separator -->
+  <line x1="48" y1="880" x2="1032" y2="880" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Website -->
+  <text x="540" y="940" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.22)" text-anchor="middle" letter-spacing="3">ROBESYSTEMS.COM</text>
+</svg>
