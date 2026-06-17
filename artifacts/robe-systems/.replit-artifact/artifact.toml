@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Robe Systems"
+version = "1.0.0"
+id = "artifacts/robe-systems"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22748
+
+[services.development]
+run = "pnpm --filter @workspace/robe-systems run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/robe-systems", "run", "build" ]
+publicDir = "artifacts/robe-systems/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22748"
+BASE_PATH = "/"
